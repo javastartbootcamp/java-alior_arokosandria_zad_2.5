@@ -5,6 +5,7 @@ public class Thing {
     String shape;
     double price;
     boolean light;
+
     public Thing(String color, String shape, boolean light, double price) {
         this.color = color;
         this.shape = shape;
